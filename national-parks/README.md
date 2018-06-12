@@ -1,1 +1,1 @@
-# National Parks - Java Tomcat Application
+# National Parks -  workshop edition
